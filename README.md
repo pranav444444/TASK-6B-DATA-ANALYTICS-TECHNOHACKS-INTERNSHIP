@@ -86,4 +86,4 @@ DAX
 
 Power Query (M Language)
 
-Data Modeling (Star Schema with Calendar Table)
+Data Modeling 
