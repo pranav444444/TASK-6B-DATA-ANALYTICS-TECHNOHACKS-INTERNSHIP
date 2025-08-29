@@ -1,4 +1,6 @@
 # TASK-6B-DATA-ANALYTICS-TECHNOHACKS-INTERNSHIP
+Download PPT from here:https://docs.google.com/presentation/d/1kXucHJN6pZBIJedCTMgHdfusDtNzePkG/edit?usp=sharing&ouid=103163200349206689294&rtpof=true&sd=true
+
 📁 Project: Mobile Sales Analytics Dashboard using Power BI
 This project is a comprehensive Power BI solution built during my summer internship to analyze and visualize mobile sales performance using interactive dashboards. It consists of three interlinked pages — each focused on a key performance aspect — connected via toggle buttons for seamless user navigation.
 
